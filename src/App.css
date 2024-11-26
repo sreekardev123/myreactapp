@@ -1,4 +1,4 @@
-.App {
+/* /* /* .App {
   text-align: center;
 }
 
@@ -35,4 +35,37 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+
+/* td,th{
+  border: 2px solid black;
+
 }
+.sai{
+  height: 100px;
+}
+.sree{
+  height: 100px;
+}
+.kar{
+  height: 100px;
+}
+.act{
+  height: 100px;
+}   */ 
+   /* .tb{
+    border-collapse: collapse;
+    border: 2px solid black;
+   } */
+    table,tr,td,th{
+    border-collapse: collapse;
+    /* border-radius: 50px; */
+      border: 3px solid orange;
+    
+      
+      
+    }
+    .tb{
+      background-color:blueviolet;
+    }
